@@ -288,6 +288,11 @@ input {
          margin-bottom: 20px;
       }
 
+      .ml-5, .mx-5  {
+
+        margin-left: 0 !important;
+      }
+
 
    }
     
