@@ -195,6 +195,10 @@ input {
     background-color: rgb(1, 163, 228) !important;
 }
 
+.bg-custom h2 {
+  margin-bottom: 20px;
+}
+
 /** {
   overflow-x: hidden;
 }
